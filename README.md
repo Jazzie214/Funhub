@@ -1,0 +1,2 @@
+# Funhub
+Just for fun
